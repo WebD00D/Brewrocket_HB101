@@ -1,0 +1,40 @@
+
+                <div id="_L4" class="BRContent">
+
+                    <h1 class="text-left" id="L4_Title" data-title="Lesson 4: Water in Brewing" style="font-family:'fira-sans-2';color:black">Water in Brewing</h1>
+                    <p class="text-left" style="font-size:larger;color:black">
+                        <b>
+                            In this lesson we'll talk about the importance of water in brewing.
+                        </b>
+                        <br />
+                        <span><i class="fa fa-clock-o"></i> Estimated Lesson Time: 8 min.</span>
+                        <br />
+                        <br />
+                        <a href="#" data-lesson="4" class="btn btn-default markascomplete " id="lnkL1">Mark As Completed</a>
+
+                    </p>
+
+                    <p style="color:#2a2727;font-size:large;line-height:40px">
+
+                        Being that water makes up around 97% of the beer you drink, it's safe to say that it plays an important role.
+
+                        The varying mineral levels in water have an impact on the flavor, perceived bitterness, and hop utilization of finished beer.
+
+                        To help you better understand, we met with Tony Ammendolia, owner of Original Gravity Homebrew Supply and Final Gravity Nanobrewery, as well
+                        as Brian Nelson, head brew master of Hardywood Park Craft Brewery. In the videos, you'll learn about the importance of water in brewing, as well
+                        as understanding PH and what it means for your beer.
+
+
+                        <div class="embed-responsive embed-responsive-4by3">
+                            <iframe src="https://player.vimeo.com/video/132487609?portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                        </div>
+                        <br />
+                        <br />
+                        <div class="embed-responsive embed-responsive-4by3">
+                            <iframe src="https://player.vimeo.com/video/132468553?portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                        </div>
+
+
+
+                    </p>
+                </div>
